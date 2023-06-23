@@ -7,7 +7,7 @@
 }
 #homeid 
 {
-	background:url(.\image\homebg.png)top center no-repeat;
+	background:url(./image/homebg.png)top center no-repeat;
 	background-size:cover;
 }
 /*.header1
@@ -1857,7 +1857,7 @@ span i
 /*End newsletter section*/
 .footer-top 
 {
-  background: white url(footer-bg.png) no-repeat right top;
+  background:url(./image/footer-bg.png) no-repeat right top;
   background-size: contain;
   padding: 60px 0 30px 0;
 }
